@@ -1,0 +1,17 @@
+{
+  "name": "crud-simples",
+  "version": "1.0.0",
+  "description": "Crud simples para atividade da cadeira de CÓDIGO: MOBILE da Faculdade Senac Pernambuco do curso Análise e Desenvolvimento de Sistemas (ADS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3"
+  }
+}
